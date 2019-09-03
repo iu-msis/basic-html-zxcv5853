@@ -30,3 +30,7 @@ a:link {
 #textCenter {
     text-align: center;
 }
+
+.img-thumbnail{
+  width: auto;
+}
