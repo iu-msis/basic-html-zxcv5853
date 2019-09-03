@@ -25,10 +25,18 @@ a:link {
   color: black;
 }
 
+thead{
+  background-color: lightgreen;
+}
 
 /* Style the element with the id "myHeader" */
 #textCenter {
     text-align: center;
+}
+
+
+.nav-item{
+  color: blue;
 }
 
 .img-thumbnail{
