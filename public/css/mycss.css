@@ -1,0 +1,36 @@
+body {
+    font-family: Garamond, Times;
+    color: purple;
+    background-color: #CBCE91FF;
+}
+
+p {
+  display: block;
+  margin-top: 1em;
+  color: #76528BFF;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+tr {
+  color: #76528BFF;
+}
+
+h1 {
+  background-color: #CBCE91FF;
+  color: #76528BFF;
+}
+
+a:link {
+  color: black;
+}
+
+
+/* Style the element with the id "myHeader" */
+#textCenter {
+    text-align: center;
+}
+
+.img-thumbnail{
+  width: auto;
+}
